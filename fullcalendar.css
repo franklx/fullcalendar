@@ -1,5 +1,5 @@
 /*
- * FullCalendar v1.5.4-final Stylesheet
+ * FullCalendar v1.5.5 Stylesheet
  *
  * (c) 2012 Adam Shaw
  * Dual licensed under the MIT and GPL licenses, located in
@@ -616,7 +616,7 @@ table.fc-border-separate {
 }
 
 /*
- * FullCalendar v1.5.4-final Print Stylesheet
+ * FullCalendar v1.5.5 Print Stylesheet
  *
  * Include this stylesheet on your page to get a more printer-friendly calendar.
  * When including this stylesheet, use the media='print' attribute of the <link> tag.

@@ -1,3 +1,5 @@
+version 1.5.5 (10/22/12)
+	- fixes and refactoring
 
 version 1.5.4 (9/5/12)
 	- made compatible with jQuery 1.8.* (thx archaeron)

@@ -1,5 +1,5 @@
 /*!
- * FullCalendar v1.5.4-final Google Calendar Plugin
+ * FullCalendar v1.5.5 Google Calendar Plugin
  *
  * (c) 2012 Adam Shaw
  * Dual licensed under the MIT and GPL licenses, located in
